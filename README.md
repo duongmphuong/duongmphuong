@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Nguyen Dinh At K2</h1>
+<h1 align="center">Hi 👋, Dương Minh Ph</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 
@@ -16,8 +16,8 @@
   </tr>
 </table>
 
-<img src="https://img5.goodfon.com/wallpaper/nbig/1/58/genshin-impact-kamisato-ayaka-devushka-veer-solntse.jpg" alt="dev" width="100%"/>
-<img src="https://images.everyeye.it/img-notizie/genshin-impact-yae-miko-arriva-2022-primi-dettagli-v3-561564-640x360.webp" alt="dev" width="100%"/>
+<!-- <img src="https://img5.goodfon.com/wallpaper/nbig/1/58/genshin-impact-kamisato-ayaka-devushka-veer-solntse.jpg" alt="dev" width="100%"/>
+<img src="https://images.everyeye.it/img-notizie/genshin-impact-yae-miko-arriva-2022-primi-dettagli-v3-561564-640x360.webp" alt="dev" width="100%"/> -->
 
-
-<img src="https://staticg.sportskeeda.com/editor/2021/08/78eb0-16299691234914-800.jpg" alt="dev" width="100%"/>
+<!-- 
+<img src="https://staticg.sportskeeda.com/editor/2021/08/78eb0-16299691234914-800.jpg" alt="dev" width="100%"/> -->
